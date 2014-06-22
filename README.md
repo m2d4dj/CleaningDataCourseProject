@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Overview 
 
 In this document, we describe the script "run_analysis.R" that creates a tidy data set from data collected in experiments performed by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto (see License information below).  
